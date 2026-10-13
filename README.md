@@ -52,16 +52,11 @@ Explores year-wise comparisons involving employee counts, revenue, emissions, an
 
 ## Dashboard Screenshots
 
-Individual dashboard screenshots are available in the `screenshots/` folder.
-
-The exported five-page dashboard is also provided as a PDF, if included in this repository.
+The five dashboard screenshots are available in the root directory of this repository.
 
 ## Project Files
 
 - **Power BI report:** `Apple_Greenhouse_Gas_Emissions.pbix`
-- **Dashboard PDF:** `green_house.pdf`
-
-The PDF is a report export. The PBIX file is intended for opening and exploring the report in Power BI Desktop.
 
 ## Skills Demonstrated
 
